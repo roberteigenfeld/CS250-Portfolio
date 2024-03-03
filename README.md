@@ -1,7 +1,10 @@
-# CS250-Portfolio
+# CS250-Journal-8
 
 # How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+When implementing user needs into a program I first need to understand the user's needs. User stories play a huge part as they give us a clear understanding of what things are important to the end user. We can use this information to prioritize tasks and help with development planning as we can see what features might cause issues during development. In addition to user stories defining acceptance criteria helps us ensure that each criterion is met for the end user.  
 
 # How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+When it comes to future development, The agile processes I wish to incorporate into my routine will be defining the requirements & objectives, breaking down the project into smaller manageable tasks, open communication & collaboration, and the use of gathering feedback for future improvement.    
 
 # What does it mean to be a good team member in software development?
+Personally to me being a good team member in software development has four key aspects efficient communication, adaptability,  time management, and accountability. Effective communication is a key trait in any team environment being able to openly discuss possible challenges, progress, and ideas helps your team collaborate and stay on the same page. Adaptability for me is being flexible to changes in the project as well as being able to be open to learning something new or trying newer ideas. When working in teams time management plays a major role deadlines typically don't move. So being able to prioritize tasks & have a good understanding of your technical skills will help your team immensely. Finally accountability, I feel that when it comes to working in a team it is important to be able to take responsibility when issues arise and actively help to find a solution. In addition, being responsible by ensuring that you meet deadlines, deliver high-quality work, and communicate problems when they arise is why I feel accountability plays a big part. 
